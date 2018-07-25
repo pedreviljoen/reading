@@ -6,3 +6,4 @@ A list of resources from which I find the articles read:
 * [Andreessen Horowitz](https://a16z.com/)
 * [Medium](https://medium.com/topic/technology)
 * [GitHub](https://github.com/explore)
+* [OfferZen](https://offerzen.com/blog)
