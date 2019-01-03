@@ -4,6 +4,6 @@
     "prettier": "^1.12.1"
   },
   "scripts": {
-    "f": "prettier --write './**/*.md'"
+    "a": "git add . && git commit -m 'Update :beers:'"
   }
 }
