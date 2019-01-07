@@ -1,5 +1,7 @@
 # A list of books or articles read
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/pedreviljoen/reading.svg)](https://greenkeeper.io/)
+
 ## Years
 
 * [2018](2018.md)
