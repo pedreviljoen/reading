@@ -7,11 +7,11 @@
 * [2018](2018.md)
 * [2019](2019.md)
 
-## A list of videos watched
+## List of videos watched
 
 * [2018](2018Vid.md)
 
-## A list of podcasts listened
+## List of podcasts listened
 
 * [2019](2019Pod.md)
 
