@@ -8,3 +8,4 @@ A list of resources from which I find the articles read & videos:
 * [GitHub](https://github.com/explore)
 * [OfferZen](https://offerzen.com/blog)
 * [Youtube](https://www.youtube.com)
+* [Software Engineering Daily](https://softwareengineeringdaily.com)
