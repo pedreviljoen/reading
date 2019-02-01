@@ -4,6 +4,6 @@
     "prettier": "^1.12.1"
   },
   "scripts": {
-    "a": "git add . && git commit -m 'January update :beers:'"
+    "a": "git add . && git commit -m 'February update :beers:'"
   }
 }
