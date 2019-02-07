@@ -10,6 +10,7 @@
 ## List of videos watched
 
 * [2018](2018Vid.md)
+* [2019](2019Vid.md)
 
 ## List of podcasts listened
 
