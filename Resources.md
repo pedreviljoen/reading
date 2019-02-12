@@ -10,3 +10,7 @@ A list of resources from which I find the articles read & videos:
 * [Youtube](https://www.youtube.com)
 * [Software Engineering Daily](https://softwareengineeringdaily.com)
 * [The Clean Code Blog](https://blog.cleancoder.com/)
+
+Some practice resources:
+
+* [Free Code Camp](https://learn.freecodecamp.org/)
