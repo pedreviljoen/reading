@@ -4,7 +4,7 @@
     "prettier": "^1.12.1"
   },
   "scripts": {
-    "a": "git commit -a -m 'September update :beers:'",
+    "a": "git commit -a -m 'October update :beers:'",
     "test": "echo 'No tests'"
   }
 }
