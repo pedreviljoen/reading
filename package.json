@@ -1,7 +1,7 @@
 {
   "name": "reading",
   "devDependencies": {
-    "prettier": "^1.12.1"
+    "prettier": "^2.0.2"
   },
   "scripts": {
     "a": "git commit -a -m 'November update :beers:'",
