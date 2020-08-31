@@ -10,6 +10,7 @@ A list of resources from which I find the articles read & videos:
 * [Youtube](https://www.youtube.com)
 * [Software Engineering Daily](https://softwareengineeringdaily.com)
 * [The Clean Code Blog](https://blog.cleancoder.com/)
+* [AWS Blog Posts](https://aws.amazon.com/blogs/)
 
 Some practice resources:
 
